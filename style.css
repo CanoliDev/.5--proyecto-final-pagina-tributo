@@ -19,7 +19,7 @@ h3{
 body {
   margin: 0;
   font-family: sans-serif;
-  background-color: #f5f6f7;
+  background-color: #0e141a;
   text-align:center;
 
 }
@@ -30,3 +30,24 @@ body {
   background-color:black;
   max-width: 100%;
 }
+
+.musk-image {
+  object-fit: contain;
+  border-radius:  10px;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  }
+
+  .caption{
+    padding-top: 5 px;
+  }
+
+  .life {
+    font-size: 20px;
+    padding:  30px 70px;
+    max-width:  600px;
+    margin: 10px auto;
+    background: color #002; ;
+  }
